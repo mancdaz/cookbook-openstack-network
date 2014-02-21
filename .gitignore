@@ -1,11 +1,7 @@
-Vagrantfile
-validation.pem
-metadata.json
-*~
 .bundle/
-cookbooks/
-.cookbooks
+.kitchen
 .vagrant
-*.swp
 .coverage/
+*.swp
 Berksfile.lock
+Vagrantfile
